@@ -40,6 +40,7 @@
         "jquery.easing": "^1.4.1"
     },
     "devDependencies": {
+        "browser-sync": "3.0.4",
         "browser-sync": "2.29.3",
         "del": "6.0.0",
         "gulp": "4.0.2",
